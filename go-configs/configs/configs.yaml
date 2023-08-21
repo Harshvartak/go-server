@@ -1,0 +1,7 @@
+sqlServer:
+  host: "localhost"
+  port: 1433
+  username: SA
+  password: "ChangeMe!"
+  database: "configs"
+  schema: foo
